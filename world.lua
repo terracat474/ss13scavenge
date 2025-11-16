@@ -113,7 +113,3 @@ function createCorridor(x,y,width,height) -- corridors are drawn by top left cor
         end
     end
 end
-
-function generateMap() --15:01 16.11, this will be a long one
-    local corridors = 0
-end
